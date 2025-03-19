@@ -2,7 +2,7 @@
 Dự đoán nguy cơ mắc bệnh tim dựa trên các chỉ số y tế cơ bản, sử dụng mô hình học máy Logistic Regression.
 
 ## 🚀 Demo
-Truy cập ứng dụng tại: [https://your-app-link.streamlit.app](https://your-app-link.streamlit.app)
+Truy cập ứng dụng tại: [[https://your-app-link.streamlit.app](https://your-app-link.streamlit.app](https://dyninhoccode-py4th2gy5cbdvczd73gnao.streamlit.app/))
 
 ---
 
